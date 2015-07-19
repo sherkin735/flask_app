@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="06ab6a8b-d3b5-41bc-b646-76548fad296b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="flask.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,8 +49,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3729097" vertical-offset="257" max-vertical-offset="855">
-              <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.32274246" vertical-offset="257" max-vertical-offset="855">
+              <caret line="30" column="126" selection-start-line="30" selection-start-column="126" selection-end-line="30" selection-end-column="126" />
               <folding />
             </state>
           </provider>
@@ -433,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3729097" vertical-offset="257" max-vertical-offset="855">
-          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.32274246" vertical-offset="257" max-vertical-offset="855">
+          <caret line="30" column="126" selection-start-line="30" selection-start-column="126" selection-end-line="30" selection-end-column="126" />
           <folding />
         </state>
       </provider>
